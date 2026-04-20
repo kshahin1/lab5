@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+}
+.margin {
+    border: 2px dashed black;
+    padding: 50px;
+    text-align: center;
+}
+.border {
+    background-color: green;
+    padding: 50px;
+}
+.padding {
+    background-color: lightgray;
+    padding: 50px;
+}
+.content {
+    background-color: white;
+    padding: 50px;
+}
